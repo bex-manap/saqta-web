@@ -1,0 +1,12 @@
+{
+  "name": "Saqta",
+  "short_name": "Saqta",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0F1E",
+  "theme_color": "#10B981",
+  "description": "Personal finance for Kazakhstan",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
